@@ -42,13 +42,6 @@
     "img": "https://static.atmequiz.com/thumbs/business.png"
   },
   {
-    "category": "BANK PO EXAM",
-    "coin": "200",
-    "Entry": 20,
-    "UsersPlaying": 100000,
-    "img": "https://static.atmequiz.com/thumbs/business.png"
-  },
-  {
     "category": "SPORTS",
     "coin": "200",
     "Entry": 100,
@@ -63,13 +56,6 @@
     "img": "https://static.atmequiz.com/thumbs/business.png"
   },
   {
-    "category": "FILM AND CELEBRITY",
-    "coin": "200",
-    "Entry": 10,
-    "UsersPlaying": 50000,
-    "img": "https://static.atmequiz.com/thumbs/business.png"
-  },
-  {
     "category": "POLITICS",
     "coin": "200",
     "Entry": 20,
@@ -81,20 +67,6 @@
     "coin": "200",
     "Entry": 50,
     "UsersPlaying": 300000,
-    "img": "https://static.atmequiz.com/thumbs/business.png"
-  },
-  {
-    "category": "BUSINESS",
-    "coin": "200",
-    "Entry": 30,
-    "UsersPlaying": 200000,
-    "img": "https://static.atmequiz.com/thumbs/business.png"
-  },
-  {
-    "category": "FILL IN THE BLANKS",
-    "coin": "200",
-    "Entry": 10,
-    "UsersPlaying": 50000,
     "img": "https://static.atmequiz.com/thumbs/business.png"
   },
   {
